@@ -7,6 +7,8 @@ dist/
 .omc/research/
 .omc/
 .omx/
+*/.DS_Store
+.DS_Store
 
 # Local agent/worktree artifacts (never commit)
 .claude/
